@@ -1,0 +1,15 @@
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\MacroCommandPattern.exe
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\MacroCommandPattern.deps.json
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\MacroCommandPattern.runtimeconfig.json
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\MacroCommandPattern.dll
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\ref\MacroCommandPattern.dll
+C:\Users\gabri\RiderProjects\MacroCommandPattern\bin\Debug\net6.0\MacroCommandPattern.pdb
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.csproj.AssemblyReference.cache
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.AssemblyInfoInputs.cache
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.AssemblyInfo.cs
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.dll
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\ref\MacroCommandPattern.dll
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.pdb
+C:\Users\gabri\RiderProjects\MacroCommandPattern\obj\Debug\net6.0\MacroCommandPattern.genruntimeconfig.cache
